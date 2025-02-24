@@ -28,7 +28,6 @@ I'm a passionate tech enthusiast with a drive to learn and innovate. I'm excited
    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" alt="Google Cloud"/></td>
    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" alt="Azure"/></td>
    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="python"/></td>
-   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazon web services/amazon web services-original.svg" width="60" alt="Amazon Web Services"/></td>
    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" alt="Terraform"/></td>
    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" alt="Kubernetes"/></td>
    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" alt="Docker"/></td>
