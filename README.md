@@ -10,7 +10,7 @@ Hi, I'm Obianuju.
 
 I'm a passionate tech enthusiast with a drive to learn and innovate. I'm excited to share my journey, projects, and experiences with you!
 
-👀 I'm interested in Cloud Computing, DevSecOps, and Python.
+👀 I'm interested in Cloud Computing, DevSecOps, and Data analysis.
 
 🌱 I'm currently learning Cloud Security, Kubernetes, Terraform and Python.
 
@@ -27,6 +27,8 @@ I'm a passionate tech enthusiast with a drive to learn and innovate. I'm excited
  <tr>
    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" alt="Google Cloud"/></td>
    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" alt="Azure"/></td>
+   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="python"/></td>
+   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazon/amazon-original.svg" width="60" alt="Amazon"/></td>
    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" alt="Terraform"/></td>
    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" alt="Kubernetes"/></td>
    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" alt="Docker"/></td>
@@ -65,7 +67,7 @@ I'm a passionate tech enthusiast with a drive to learn and innovate. I'm excited
 
 ---
 
-![](https://komarev.com/ghpvc/?username=obianuju-linda&color=purple)
+![](https://komarev.com/ghpvc/?username=obianuju-linda&color=blue)
 
 <p align="center">⚡ The code is just a start, let's connect and innovate!💡 ⚡</p>
 <!--
